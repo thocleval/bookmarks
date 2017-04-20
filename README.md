@@ -11,9 +11,10 @@ L'endroit ou qu'on peut stocker tous les liens trop géniaux
 * [Google Music Timeline](https://research.google.com/bigpicture/music/)
 ### Images
 * [Unsplash](https://unsplash.com/) (Free High Resolution Pictures)
-* [Pexels](https://www.pexels.com/) (Same as Unspash
+* [Pexels](https://www.pexels.com/) (Same as Unsplash)
 * [Image resizer](http://waifu2x.booru.pics/) (Scale up drawings with little to no loss)
 * [Stencil Creator](http://stencilcreator.org/#) (Create stencil layers from images)
+* [Favicon Generator](http://realfavicongenerator.net/)
 ### Text
 * [Unicode Text Converter](http://qaz.wtf/u/convert.cgi?text=Tho+Cle+Val)
 ### Other
@@ -30,7 +31,7 @@ L'endroit ou qu'on peut stocker tous les liens trop géniaux
 * [Flexbox Froggy](http://flexboxfroggy.com/)
 * [Grid Garden](http://cssgridgarden.com/)
 ### Games and technicals demos
-* [Simulateur de peinture à l'huile](http://david.li/paint/)
+* [Oil paint simulation](http://david.li/paint/)
 * [TweetPing](https://tweetping.net/#/)
 * [Paper JS](http://paperjs.org/examples/)
 * [BadLands](https://wwwtyro.github.io/badlands/) (Terrain generator)
