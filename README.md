@@ -7,6 +7,7 @@ L'endroit ou qu'on peut stocker tous les liens trop géniaux
 ### Videos
 * [Envoyé spécial – Nous sommes tous des casseurs (France 2)](https://www.youtube.com/watch?v=-VVzHq0peaE)
 * [Arte - Ceci n'est pas un graffiti](http://creative.arte.tv/fr/graffiti)
+* [Reportage souffleurs de verre](https://vimeo.com/160106895)
 ### Music
 * [Spotify Artist Explorer](https://artistexplorer.spotify.com/)
 * [Every Noise at Once](http://everynoise.com/engenremap.html)
@@ -17,10 +18,12 @@ L'endroit ou qu'on peut stocker tous les liens trop géniaux
 * [Image resizer](http://waifu2x.booru.pics/) (Scale up drawings with little to no loss)
 * [Stencil Creator](http://stencilcreator.org/#) (Create stencil layers from images)
 * [Favicon Generator](http://realfavicongenerator.net/)
+* [Image to ASCII](https://github.com/IonicaBizau/image-to-ascii)
 ### Text
 * [Unicode Text Converter](http://qaz.wtf/u/convert.cgi?text=Tho+Cle+Val)
 ### Other
 * [Comparing vote systems](http://ncase.me/ballot/)
+* [Shared LCD screen over the Internet](http://slasho.me/)
 
 ## Tech
 ### Technologies
