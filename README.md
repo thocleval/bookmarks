@@ -1,6 +1,8 @@
 # Bookmarks
 L'endroit ou qu'on peut stocker tous les liens trop géniaux
 
+[Playlist Youtube](https://www.youtube.com/playlist?list=PL31qeSoihovQiPsM1pfGeH3b0eyJodsb_)
+
 ## Divers
 ### Videos
 * [Envoyé spécial – Nous sommes tous des casseurs (France 2)](https://www.youtube.com/watch?v=-VVzHq0peaE)
@@ -25,9 +27,12 @@ L'endroit ou qu'on peut stocker tous les liens trop géniaux
 #### CSS
 * [Allycss](http://ffoodd.github.io/a11y.css/index.html) (Pronounced « Alix » - CSS to avoid HTML errors)
 * [Unified icon search](http://glyphsearch.com/)
+#### Other
+* [Konami JS](https://github.com/MauriceButler/konami-js)
 ### Security
 * [Unicode Phishing Attack](https://thehackernews.com/2017/04/unicode-Punycode-phishing-attack.html)
 ### Learn
+* [Design patterns for humans](https://github.com/kamranahmedse/design-patterns-for-humans)
 * [Flexbox Froggy](http://flexboxfroggy.com/)
 * [Grid Garden](http://cssgridgarden.com/)
 ### Games and technicals demos
@@ -35,3 +40,4 @@ L'endroit ou qu'on peut stocker tous les liens trop géniaux
 * [TweetPing](https://tweetping.net/#/)
 * [Paper JS](http://paperjs.org/examples/)
 * [BadLands](https://wwwtyro.github.io/badlands/) (Terrain generator)
+* [Image to Image](https://affinelayer.com/pixsrv/)
