@@ -11,13 +11,18 @@ L'endroit ou qu'on peut stocker tous les liens trop géniaux
 * [Google Music Timeline](https://research.google.com/bigpicture/music/)
 ### Images
 * [Unspash](https://unsplash.com/) (Free High Resolution Pictures)
-### Autres
-* [Système de vote](http://ncase.me/ballot/)
+* [Image resizer](http://waifu2x.booru.pics/) (Scale up drawings with little to no loss)
+* [Stencil Creator](http://stencilcreator.org/#) (Create stencil layers from images)
+### Text
+* [Unicode Text Converter](http://qaz.wtf/u/convert.cgi?text=Tho+Cle+Val)
+### Other
+* [Comparing vote systems](http://ncase.me/ballot/)
 
 ## Tech
 ### Technologies
 #### CSS
 * [Allycss](http://ffoodd.github.io/a11y.css/index.html) (Pronounced « Alix » - CSS to avoid HTML errors)
+* [Unified icon search](http://glyphsearch.com/)
 ### Security
 * [Unicode Phishing Attack](https://thehackernews.com/2017/04/unicode-Punycode-phishing-attack.html)
 ### Learn
