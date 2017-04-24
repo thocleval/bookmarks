@@ -32,6 +32,7 @@ L'endroit ou qu'on peut stocker tous les liens trop géniaux
 * [Unified icon search](http://glyphsearch.com/)
 #### Other
 * [Konami JS](https://github.com/MauriceButler/konami-js)
+* [Data structure and Algorithms problems](http://www.techiedelight.com/list-of-problems/)
 ### Security
 * [Unicode Phishing Attack](https://thehackernews.com/2017/04/unicode-Punycode-phishing-attack.html)
 ### Learn
