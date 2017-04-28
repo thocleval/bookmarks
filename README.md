@@ -21,6 +21,8 @@ L'endroit ou qu'on peut stocker tous les liens trop géniaux
 * [Image to ASCII](https://github.com/IonicaBizau/image-to-ascii)
 ### Text
 * [Unicode Text Converter](http://qaz.wtf/u/convert.cgi?text=Tho+Cle+Val)
+### Fun
+* [Est-ce qu'il a rendu l'argent ?](https://www.estcequilarendulargent.fr/)
 ### Other
 * [Comparing vote systems](http://ncase.me/ballot/)
 * [Shared LCD screen over the Internet](http://slasho.me/)
