@@ -59,3 +59,6 @@ L'endroit ou qu'on peut stocker tous les liens trop géniaux
 * [Paper JS](http://paperjs.org/examples/)
 * [BadLands](https://wwwtyro.github.io/badlands/) (Terrain generator)
 * [Image to Image](https://affinelayer.com/pixsrv/)
+
+### ASCII art
+* [ASCII map on terminal](mapscii.me): `telnet mapscii.me`
