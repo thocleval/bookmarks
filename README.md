@@ -52,6 +52,7 @@ L'endroit ou qu'on peut stocker tous les liens trop géniaux
 * [Design patterns for humans](https://github.com/kamranahmedse/design-patterns-for-humans)
 * [Flexbox Froggy](http://flexboxfroggy.com/)
 * [Grid Garden](http://cssgridgarden.com/)
+* [RxMarbles : Interactive diagrams of Rx Observables](http://rxmarbles.com/)
 
 ### Games and technicals demos
 * [Oil paint simulation](http://david.li/paint/)
