@@ -31,6 +31,7 @@ L'endroit ou qu'on peut stocker tous les liens trop géniaux
 ### Other
 * [Comparing vote systems](http://ncase.me/ballot/)
 * [Shared LCD screen over the Internet](http://slasho.me/)
+* [Maximal urban density checker](https://www.mapchecking.com/) : Tool used to determine how many people can be in a given zone.
 
 ## Tech
 
