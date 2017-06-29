@@ -21,6 +21,7 @@ L'endroit ou qu'on peut stocker tous les liens trop géniaux
 * [Stencil Creator](http://stencilcreator.org/#) (Create stencil layers from images)
 * [Favicon Generator](http://realfavicongenerator.net/)
 * [Image to ASCII](https://github.com/IonicaBizau/image-to-ascii)
+* [100 color schemes](https://designschool.canva.com/blog/100-color-combinations/)
 
 ### Text
 * [Unicode Text Converter](http://qaz.wtf/u/convert.cgi?text=Tho+Cle+Val)
