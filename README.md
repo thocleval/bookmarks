@@ -40,6 +40,9 @@ L'endroit ou qu'on peut stocker tous les liens trop géniaux
 * [Ecoindex](http://www.ecoindex.fr/)
 
 ### Technologies
+#### JS
+* [You Might Not Need jQuery](http://youmightnotneedjquery.com/)
+
 #### CSS
 * [Allycss](http://ffoodd.github.io/a11y.css/index.html) (Pronounced « Alix » - CSS to avoid HTML errors)
 * [Unified icon search](http://glyphsearch.com/)
