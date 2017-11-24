@@ -30,6 +30,7 @@ L'endroit ou qu'on peut stocker tous les liens trop géniaux
 * [Est-ce qu'il a rendu l'argent ?](https://www.estcequilarendulargent.fr/)
 
 ### Other
+* [Easily creating easy to read diagrams](http://sankeymatic.com/)
 * [Comparing vote systems](http://ncase.me/ballot/)
 * [Shared LCD screen over the Internet](http://slasho.me/)
 * [Maximal urban density checker](https://www.mapchecking.com/) : Tool used to determine how many people can be in a given zone.
